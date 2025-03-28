@@ -1,0 +1,37 @@
+/* Selector 1: Styling the heading using ID */
+#heading {
+    font-family: 'Arial', sans-serif;
+    color: #4c53af;
+    margin: 30px 0;
+    padding: 10px;
+    border: 2px solid #4CAF50;
+    text-align: center;
+}
+
+/* Selector 2: Styling the paragraph using a class */
+.description {
+    font-family: 'Georgia', serif;
+    font-size: 16px;
+    color: #333333;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+/* Selector 3: Styling the image using a class */
+.styled-image {
+    border: 5px solid #555555;
+    border-radius: 15px;
+    margin: 20px;
+    padding: 12px;
+    width: 350px;
+    height: 200px;
+}
+
+/* General container styling */
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+}
